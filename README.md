@@ -28,7 +28,8 @@ Hosting & Deployment:
 
 ## Proposed Solution / Architecture Diagram
 
-![DFD Zero Level_4](https://github.com/user-attachments/assets/3d63941d-b53f-46e8-a16b-ba06c02cc7de)
+![Screenshot 2024-12-01 135342](https://github.com/user-attachments/assets/f0ac30de-7793-46c1-9d66-46228743a24d)
+
 
 ## Use Cases
 ![php9ohdOk](https://github.com/user-attachments/assets/89ce9185-4ba8-459e-ad77-a592080cbf58)

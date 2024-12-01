@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01.12.2024
+## Register Number:24900920
+## Name:R.R.Yazhini
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,43 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Frontend:
 
+React.js for building a dynamic, user-friendly web interface.
+Backend:
+
+2.Node.js with Express for a fast, scalable server to handle requests.
+Database:
+
+3.PostgreSQL for storing alumni data (profiles, events, etc.).
+Authentication:
+
+4.JWT (JSON Web Tokens) for secure user login and authentication.
+Hosting & Deployment:
+
+5.AWS or Heroku for cloud hosting and deployment of the platform.
 
 ## Proposed Solution / Architecture Diagram
 
+![DFD Zero Level_4](https://github.com/user-attachments/assets/3d63941d-b53f-46e8-a16b-ba06c02cc7de)
 
 ## Use Cases
+![php9ohdOk](https://github.com/user-attachments/assets/89ce9185-4ba8-459e-ad77-a592080cbf58)
 
 
 ## Technology Stack
-
+OAuth 2.0 / JWT (JSON Web Tokens): For secure user authentication and authorization.
+SSL/TLS: For secure data transmission over HTTPS.
+Google/Facebook Auth: Social login options for ease of access.
+ Cloud Hosting & Deployment
+Amazon Web Services (AWS) or Google Cloud Platform (GCP) for cloud infrastructure.
+Heroku or Netlify: For simpler deployment, especially in smaller-scale applications. 
+Email: SendGrid or Mailgun for bulk email notifications.
+Push Notifications: Using services like Firebase Cloud Messaging
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 20 days
+
+budget- rs.50,000
